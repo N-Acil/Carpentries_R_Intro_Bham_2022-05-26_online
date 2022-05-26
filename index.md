@@ -380,6 +380,12 @@ The lesson taught in this workshop is being piloted and a precise schedule is ye
 
 <hr/>
 
+<h2 id="reference">Reference</h2>
+<p>
+  All reference material for the syllabus covered and more can be found at <a href="http://swcarpentry.github.io/r-novice-gapminder/">the relevant software carpentries site</a>
+</p>
+<hr/>
+
 
 {% comment %}
 SETUP
